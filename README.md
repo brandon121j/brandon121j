@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon121j)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon121j)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandon121j&show_icons=true&theme=radical)
 
 <!--
 **brandon121j/brandon121j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
