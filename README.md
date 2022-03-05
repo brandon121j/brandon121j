@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align='center'>
+  <h1>Brandon Johnson</h1>
+  <h3>I'm an Army veteran that loves to create fullstack applications that users enjoy</h3>
+</div>
 
 <div>
   <a href='gmail.com'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' /></a>  
