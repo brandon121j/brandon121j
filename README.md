@@ -16,8 +16,12 @@
   <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' align="center" />
   <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' align="center" />
   <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' align="center" />
-</div>
+</div><br/>
 
-<div>
+<div align='center'> 
+  
+  
   ![snake gif](https://github.com/brandon121j/brandon121j/blob/output/github-contribution-grid-snake.gif)
+
+  
 </div>
