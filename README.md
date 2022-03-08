@@ -21,8 +21,7 @@
 <div align='center'> 
   
   
-  ![snake gif](https://github.com/brandon121j/brandon121j/blob/output/github-contribution-grid-snake.gif)
-  ![](https://github.com/brandon121j/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/brandon121j/brandon121j/blob/output/github-contribution-grid-snake.gif)
 
   
 </div>
