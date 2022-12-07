@@ -1,6 +1,6 @@
 <div align='center'>
   <h2 border-bottom: "none">Brandon Johnson</h2><a href='https://www.linkedin.com/in/brandon-johnson-ab8113195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnsCTD3RkQFquFnCe9VLWAA%3D%3D'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' /></a>  
-  <h3>A software engineer and Military Veteran with experience building full stack web applications. I'm passionate about creating innovative digital experiences with code</h3>
+  <h3>A Software Engineer and Military Veteran who's passionate about creating innovative digital experiences with code</h3>
 </div>
 
 <div align="center">
